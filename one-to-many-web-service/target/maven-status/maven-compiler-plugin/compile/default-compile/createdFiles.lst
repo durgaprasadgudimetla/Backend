@@ -1,0 +1,17 @@
+com\codeforgeyt\onetomanywebservice\config\CorsConfig.class
+com\codeforgeyt\onetomanywebservice\service\CartService.class
+com\codeforgeyt\onetomanywebservice\config\CorsConfig$1.class
+com\codeforgeyt\onetomanywebservice\model\dto\CartDto.class
+com\codeforgeyt\onetomanywebservice\repository\CartRepository.class
+com\codeforgeyt\onetomanywebservice\model\dto\ItemDto.class
+com\codeforgeyt\onetomanywebservice\controller\CartController.class
+com\codeforgeyt\onetomanywebservice\model\Cart.class
+com\codeforgeyt\onetomanywebservice\repository\ItemRepository.class
+com\codeforgeyt\onetomanywebservice\model\exception\ItemIsAlreadyAssignedException.class
+com\codeforgeyt\onetomanywebservice\model\Item.class
+com\codeforgeyt\onetomanywebservice\model\dto\PlainCartDto.class
+com\codeforgeyt\onetomanywebservice\model\exception\CartNotFoundException.class
+com\codeforgeyt\onetomanywebservice\model\exception\ItemNotFoundException.class
+com\codeforgeyt\onetomanywebservice\controller\ItemController.class
+com\codeforgeyt\onetomanywebservice\service\ItemService.class
+com\codeforgeyt\onetomanywebservice\OneToManyWebServiceApplication.class

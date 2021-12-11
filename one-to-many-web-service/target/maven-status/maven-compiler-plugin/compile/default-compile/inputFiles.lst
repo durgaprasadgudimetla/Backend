@@ -1,0 +1,16 @@
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\dto\CartDto.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\repository\ItemRepository.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\config\CorsConfig.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\exception\ItemIsAlreadyAssignedException.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\controller\ItemController.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\service\CartService.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\controller\CartController.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\exception\ItemNotFoundException.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\Cart.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\Item.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\OneToManyWebServiceApplication.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\exception\CartNotFoundException.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\dto\PlainCartDto.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\service\ItemService.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\model\dto\ItemDto.java
+C:\Data\projects\github\one-to-many-web-service\src\main\java\com\codeforgeyt\onetomanywebservice\repository\CartRepository.java
