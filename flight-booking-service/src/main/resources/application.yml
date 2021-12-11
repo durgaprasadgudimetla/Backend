@@ -1,0 +1,39 @@
+server:
+  port: 2023
+spring:
+  profiles:
+    active: local
+---
+spring:
+ profiles: local
+ jpa:
+   hibernate:      ddl-auto: create   
+      
+flight:
+  datasource:    driver-class-name:  org.postgresql.Driver
+    dialect: org.hibernate.dialect.PostgreSQLDialect
+    jdbc-url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+employee:
+  datasource:
+    driver-class-name:  com.mysql.jdbc.Driver
+    dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    jdbc-url: jdbc:mysql://localhost:3306/employee_management_system?useSSL=false
+    username: root
+    password: root
+   # hikari:
+   #   connection-timeout: 20000
+   #   maximum-pool-size: 5
+ #jpa:
+  #  hibernate:
+   #  ddl-auto: update
+    # properties:
+     # hibernate:       
+     
+      #  dialect: org.hibernate.dialect.PostgreSQLDialect
+   
+       
+      
+       
+      
